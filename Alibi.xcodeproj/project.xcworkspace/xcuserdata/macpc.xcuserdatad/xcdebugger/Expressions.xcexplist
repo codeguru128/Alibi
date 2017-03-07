@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AMainFeedViewController buttonLocationSelected:]:AMainFeedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "sender.titleLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[APostCell sizeWithPost:]:APostCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AMainFeedViewController viewDidLoad]:AMainFeedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentLocation.coordinate.longitude">
+            </PersistentString>
+            <PersistentString
+               value = "currentLocation.coordinate.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ACreateUsernameViewController viewDidLoad]:ACreateUsernameViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_userDict">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ACommentCell updateFramesAndDataWithDownloads:]:ACommentCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGSizeMake(sharedCell.frame.size.width, CGRectGetMaxY(sharedCell.mainView.frame) + 1.0f)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[ACommentCell sizeWithComment:]:ACommentCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGSizeMake(sharedCell.frame.size.width, CGRectGetMaxY(sharedCell.mainView.frame) + 1.0f)">
+            </PersistentString>
+            <PersistentString
+               value = "sharedCell.mainView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AMainFeedViewController tableView:willDisplayCell:forRowAtIndexPath:]:AMainFeedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[APostCell updateFramesAndDataWithDownloads:]:APostCell.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ACommentsViewController tableView:numberOfRowsInSection:]:ACommentsViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AMainFeedViewController tableView:heightForRowAtIndexPath:]:AMainFeedViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "APostCell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
